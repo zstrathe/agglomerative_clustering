@@ -1,5 +1,11 @@
 ### Agglomerative clustering 
-### Using total-linkage and manhattan or euclidean distance
+### Using total-linkage with Manhattan or Euclidean distance
+
+######################################################
+##   TO DO                                          ##
+######################################################
+## Implement as a Python class with dunder methods  ##
+######################################################
 
 import numpy as np
 from math import sqrt
